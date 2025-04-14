@@ -3,33 +3,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const products = [
         {
             id: 1,
-            title: "Fantse Language",
-            price: 99.99,
-            image: "../assets/images/whatsapp-image-2025-03-23-at-7.08.35-pm-506x506.jpg"
-        },
-        {
-            id: 2,
-            title: "Ashanti Language",
-            price: 199.99,
-            image: "../assets/images/whatsapp-image-2025-03-23-at-7.09.07-pm-506x506.jpg"
-        },
-        {
-            id: 3,
-            title: "Ga Language",
-            price: 79.99,
-            image: "../assets/images/whatsapp-image-2025-03-23-at-7.12.18-pm-506x506.jpg"
-        },
-        {
-            id: 4,
-            title: "Krobo Language",
-            price: 49.99,
-            image: "../assets/images/whatsapp-image-2025-03-23-at-7.09.27-pm-1280x1280.jpg"
-        },
-        {
-            id: 5,
-            title: "Ewe Language",
-            price: 29.99,
-            image: "../assets/images/whatsapp-image-2025-03-23-at-7.10.04-pm-1280x1280.jpg"
+            title: "Twi / Ewe",
+            price: 77.00,
+            image: "../assets/images/twi-ewe.jpeg"
         }
     ];
 
